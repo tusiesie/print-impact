@@ -1,2 +1,2 @@
 # print-impact
-Job posting tasl
+Job posting task
